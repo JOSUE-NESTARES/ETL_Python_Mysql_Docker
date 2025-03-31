@@ -20,3 +20,18 @@ Este repositorio contiene un flujo de ETL (Extracción, Transformación y Carga)
    ```bash
    docker-compose up -d
 
+3. Usa la extensión MySQL Database Client para conectarte a la base de datos.
+   
+   El contenedor de MySQL ya habrá ejecutado los scripts SQL automáticamente.
+
+4. Explora los archivos y el notebook para entender el proceso ETL.
+
+5. Modifica y ejecuta el código según sea necesario.
+
+##Notas Adicionales
+
+- Los datos en los archivos CSV son ficticios y usados solo con fines educativos.
+
+- Si tienes preguntas o mejoras, no dudes en contribuir al repositorio.
+
+🚀 ¡Disfruta del aprendizaje con este proyecto ETL!
