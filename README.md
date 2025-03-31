@@ -28,7 +28,7 @@ Este repositorio contiene un flujo de ETL (Extracción, Transformación y Carga)
 
 5. Modifica y ejecuta el código según sea necesario.
 
-##Notas Adicionales
+## Notas Adicionales
 
 - Los datos en los archivos CSV son ficticios y usados solo con fines educativos.
 
